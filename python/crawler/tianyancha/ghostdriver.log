@@ -1,0 +1,54 @@
+[INFO  - 2021-03-26T10:49:00.749Z] GhostDriver - Main - running on port 56680
+[INFO  - 2021-03-26T10:49:02.836Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0","webSecurityEnabled":true}
+[INFO  - 2021-03-26T10:49:02.836Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.customHeaders:  - {}
+[INFO  - 2021-03-26T10:49:02.836Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
+[INFO  - 2021-03-26T10:49:02.837Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e0e7d700-8e20-11eb-a1cc-592c575eb640
+[ERROR - 2021-03-26T10:49:07.248Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.addEventListener(t,n,i)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.248Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - stack:
+  value (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  forEach (:0)
+  value (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  value (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  value (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  value (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.252Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.startsWith("@!")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.253Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - stack:
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  each (https://cdn.tianyancha.com/web-require-js/public/js/lib/jquery-0827d4de6c.js:1)
+  each (https://cdn.tianyancha.com/web-require-js/public/js/lib/jquery-0827d4de6c.js:1)
+  imgLoad (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.448Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.startsWith("@!")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.448Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - stack:
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  each (https://cdn.tianyancha.com/web-require-js/public/js/lib/jquery-0827d4de6c.js:1)
+  each (https://cdn.tianyancha.com/web-require-js/public/js/lib/jquery-0827d4de6c.js:1)
+  imgLoad (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.872Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.startsWith("@!")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-03-26T10:49:07.872Z] Session [e0e7d700-8e20-11eb-a1cc-592c575eb640] - page.onError - stack:
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  each (https://cdn.tianyancha.com/web-require-js/public/js/lib/jquery-0827d4de6c.js:1)
+  each (https://cdn.tianyancha.com/web-require-js/public/js/lib/jquery-0827d4de6c.js:1)
+  imgLoad (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+  (anonymous function) (https://cdn.tianyancha.com/web-require-js/public/js/route/login-750b0cb09b.js:86)
+
+  phantomjs://platform/console++.js:263 in error
